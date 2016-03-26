@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		701D03411CA5DE81009AAC74 /* Bee.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D03371CA5DE81009AAC74 /* Bee.png */; };
+		701D03421CA5DE81009AAC74 /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D03381CA5DE81009AAC74 /* car.png */; };
+		701D03431CA5DE81009AAC74 /* firefly.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D03391CA5DE81009AAC74 /* firefly.png */; };
+		701D03441CA5DE81009AAC74 /* grass.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D033A1CA5DE81009AAC74 /* grass.png */; };
+		701D03451CA5DE81009AAC74 /* kid1 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D033B1CA5DE81009AAC74 /* kid1 copy.png */; };
+		701D03461CA5DE81009AAC74 /* kid2 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D033C1CA5DE81009AAC74 /* kid2 copy.png */; };
+		701D03471CA5DE81009AAC74 /* kid3 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D033D1CA5DE81009AAC74 /* kid3 copy.png */; };
+		701D03481CA5DE81009AAC74 /* kid4 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D033E1CA5DE81009AAC74 /* kid4 copy.png */; };
+		701D03491CA5DE81009AAC74 /* road.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D033F1CA5DE81009AAC74 /* road.png */; };
+		701D034A1CA5DE81009AAC74 /* tree1.png in Resources */ = {isa = PBXBuildFile; fileRef = 701D03401CA5DE81009AAC74 /* tree1.png */; };
+		701D034E1CA5DE88009AAC74 /* CarCrash.wav in Resources */ = {isa = PBXBuildFile; fileRef = 701D034C1CA5DE88009AAC74 /* CarCrash.wav */; };
+		701D034F1CA5DE88009AAC74 /* forest.wav in Resources */ = {isa = PBXBuildFile; fileRef = 701D034D1CA5DE88009AAC74 /* forest.wav */; };
+		701D03511CA5E77C009AAC74 /* MenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701D03501CA5E77C009AAC74 /* MenuScene.swift */; };
 		704B38461CA5D95E00067C65 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704B38451CA5D95E00067C65 /* AppDelegate.swift */; };
 		704B38481CA5D95E00067C65 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 704B38471CA5D95E00067C65 /* GameScene.sks */; };
 		704B384A1CA5D95E00067C65 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704B38491CA5D95E00067C65 /* GameScene.swift */; };
@@ -36,6 +49,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		701D03371CA5DE81009AAC74 /* Bee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bee.png; sourceTree = "<group>"; };
+		701D03381CA5DE81009AAC74 /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car.png; sourceTree = "<group>"; };
+		701D03391CA5DE81009AAC74 /* firefly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firefly.png; sourceTree = "<group>"; };
+		701D033A1CA5DE81009AAC74 /* grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass.png; sourceTree = "<group>"; };
+		701D033B1CA5DE81009AAC74 /* kid1 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid1 copy.png"; sourceTree = "<group>"; };
+		701D033C1CA5DE81009AAC74 /* kid2 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid2 copy.png"; sourceTree = "<group>"; };
+		701D033D1CA5DE81009AAC74 /* kid3 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid3 copy.png"; sourceTree = "<group>"; };
+		701D033E1CA5DE81009AAC74 /* kid4 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kid4 copy.png"; sourceTree = "<group>"; };
+		701D033F1CA5DE81009AAC74 /* road.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = road.png; sourceTree = "<group>"; };
+		701D03401CA5DE81009AAC74 /* tree1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tree1.png; sourceTree = "<group>"; };
+		701D034C1CA5DE88009AAC74 /* CarCrash.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CarCrash.wav; sourceTree = "<group>"; };
+		701D034D1CA5DE88009AAC74 /* forest.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = forest.wav; sourceTree = "<group>"; };
+		701D03501CA5E77C009AAC74 /* MenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuScene.swift; sourceTree = "<group>"; };
 		704B38421CA5D95E00067C65 /* FireFly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FireFly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		704B38451CA5D95E00067C65 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		704B38471CA5D95E00067C65 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -78,6 +104,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		701D03361CA5DE81009AAC74 /* Art */ = {
+			isa = PBXGroup;
+			children = (
+				701D03371CA5DE81009AAC74 /* Bee.png */,
+				701D03381CA5DE81009AAC74 /* car.png */,
+				701D03391CA5DE81009AAC74 /* firefly.png */,
+				701D033A1CA5DE81009AAC74 /* grass.png */,
+				701D033B1CA5DE81009AAC74 /* kid1 copy.png */,
+				701D033C1CA5DE81009AAC74 /* kid2 copy.png */,
+				701D033D1CA5DE81009AAC74 /* kid3 copy.png */,
+				701D033E1CA5DE81009AAC74 /* kid4 copy.png */,
+				701D033F1CA5DE81009AAC74 /* road.png */,
+				701D03401CA5DE81009AAC74 /* tree1.png */,
+			);
+			path = Art;
+			sourceTree = "<group>";
+		};
+		701D034B1CA5DE88009AAC74 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				701D034C1CA5DE88009AAC74 /* CarCrash.wav */,
+				701D034D1CA5DE88009AAC74 /* forest.wav */,
+			);
+			name = Sounds;
+			path = Art/Sounds;
+			sourceTree = "<group>";
+		};
 		704B38391CA5D95E00067C65 = {
 			isa = PBXGroup;
 			children = (
@@ -101,10 +154,13 @@
 		704B38441CA5D95E00067C65 /* FireFly */ = {
 			isa = PBXGroup;
 			children = (
+				701D034B1CA5DE88009AAC74 /* Sounds */,
+				701D03361CA5DE81009AAC74 /* Art */,
 				704B38451CA5D95E00067C65 /* AppDelegate.swift */,
 				704B38471CA5D95E00067C65 /* GameScene.sks */,
 				704B38491CA5D95E00067C65 /* GameScene.swift */,
 				704B384B1CA5D95E00067C65 /* GameViewController.swift */,
+				701D03501CA5E77C009AAC74 /* MenuScene.swift */,
 				704B384D1CA5D95E00067C65 /* Main.storyboard */,
 				704B38501CA5D95E00067C65 /* Assets.xcassets */,
 				704B38521CA5D95E00067C65 /* LaunchScreen.storyboard */,
@@ -235,10 +291,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				701D03421CA5DE81009AAC74 /* car.png in Resources */,
+				701D03461CA5DE81009AAC74 /* kid2 copy.png in Resources */,
+				701D03431CA5DE81009AAC74 /* firefly.png in Resources */,
 				704B38481CA5D95E00067C65 /* GameScene.sks in Resources */,
+				701D03471CA5DE81009AAC74 /* kid3 copy.png in Resources */,
+				701D03491CA5DE81009AAC74 /* road.png in Resources */,
 				704B38541CA5D95E00067C65 /* LaunchScreen.storyboard in Resources */,
+				701D034A1CA5DE81009AAC74 /* tree1.png in Resources */,
+				701D03451CA5DE81009AAC74 /* kid1 copy.png in Resources */,
+				701D034F1CA5DE88009AAC74 /* forest.wav in Resources */,
+				701D03481CA5DE81009AAC74 /* kid4 copy.png in Resources */,
+				701D03441CA5DE81009AAC74 /* grass.png in Resources */,
 				704B38511CA5D95E00067C65 /* Assets.xcassets in Resources */,
 				704B384F1CA5D95E00067C65 /* Main.storyboard in Resources */,
+				701D034E1CA5DE88009AAC74 /* CarCrash.wav in Resources */,
+				701D03411CA5DE81009AAC74 /* Bee.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +332,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				704B384A1CA5D95E00067C65 /* GameScene.swift in Sources */,
+				701D03511CA5E77C009AAC74 /* MenuScene.swift in Sources */,
 				704B384C1CA5D95E00067C65 /* GameViewController.swift in Sources */,
 				704B38461CA5D95E00067C65 /* AppDelegate.swift in Sources */,
 			);
@@ -494,6 +563,7 @@
 				704B38701CA5D95E00067C65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		704B38711CA5D95E00067C65 /* Build configuration list for PBXNativeTarget "FireFlyTests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +572,7 @@
 				704B38731CA5D95E00067C65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		704B38741CA5D95E00067C65 /* Build configuration list for PBXNativeTarget "FireFlyUITests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +581,7 @@
 				704B38761CA5D95E00067C65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
